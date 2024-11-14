@@ -1,0 +1,37 @@
+.itemcontainer{
+    padding: 10px;
+    margin: 50px;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgb(0, 0, 0,0.1);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.imageconatiner{
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    margin: 20px;
+}
+.name{
+    color: #393e46;
+    margin: 20px;
+}
+.container{
+    display: flex;
+    padding: 12px;
+}
+.container p {
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 8px;
+    margin-left: 5px
+}
+
+.image{
+    max-width: 100%;
+    height: auto;
+    border: none;
+    border-radius: 8px;
+}
